@@ -172,7 +172,7 @@ const config = {
       secondary: '#F8E1E7',
       accent: '#F7BC3',
       neutral: '#FFFFFF',
-      'base-100': '#f7f0f6',
+      'base-100': '#F7F0F2',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
