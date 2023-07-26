@@ -11,57 +11,57 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'https://www.linkedin.com/in/katherine-ngo-556688159/',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://codingispink.github.io/portfolio/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'ngogiang321@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/drive/u/2/folders/1Sw3yvCZ9YyTHV6Uz7jbgShxlMQuYqjjI', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'JavaScript',
+    'R',
+    //'Node.js',
+    //'Nest.js',
+    //'MySQL',
+    //'PostgreSQL',
+    // 'Git',
+    // 'Docker',
+    // 'PHPUnit',
+    // 'CSS',
+    // 'Antd',
+    // 'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'KPIM JOINT STOCK COMPANY',
+      position: 'Business Analyst Intern',
+      from: 'February 2023',
+      to: 'May 2023',
+      companyLink: 'https://kpim.vn/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'University of Minnesota (Twin Cities)',
+      position: 'Human Resources/Payroll Assistant',
+      from: 'July 2022',
+      to: 'May 2023',
+      companyLink: 'https://sua.umn.edu/',
     },
   ],
   /* certifications: [
@@ -74,40 +74,40 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Chicago',
+      degree: 'Master of Science, Applied Data Science',
+      from: 'September 2023',
+      to: 'December 2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Minnesota (Twin Cities)',
+      degree: 'Bachelor of Science in Business, Management Information Systems, Marketing Minor',
+      from: 'September 2019',
+      to: 'May 2023',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: '',
+      link: '',
     },
     {
-      title: 'Project Name',
+      title: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: '',
+      link: '',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
