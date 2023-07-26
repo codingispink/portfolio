@@ -16,7 +16,7 @@ const config = {
     mastodon: '',
     facebook: '',
     instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepi'
     dribbble: '',
     behance: '',
     medium: '',
@@ -88,22 +88,22 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: '',
-      description:
-        '',
-      imageUrl: '',
-      link: '',
-    },
-    {
-      title: '',
-      description:
-        '',
-      imageUrl: '',
-      link: '',
-    },
-  ],
+  // externalProjects: [
+  //   {
+  //     title: '',
+  //     description:
+  //       '',
+  //     imageUrl: '',
+  //     link: '',
+  //   },
+  //   {
+  //     title: '',
+  //     description:
+  //       '',
+  //     imageUrl: '',
+  //     link: '',
+  //   },
+  // ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
