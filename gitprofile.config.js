@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'katherine-ngo-556688159/',
+    linkedin: 'katherine-ngo-556688159',
     twitter: '',
     mastodon: '',
     facebook: '',
