@@ -93,7 +93,7 @@ const config = {
        title: 'Netflix Movies & TV Shows Analysis',
        description:
          'An analysis of Netflix Movies & TV Shows using Tableau',
-       imageUrl: '',
+       imageUrl: 'https://drive.google.com/file/d/1nHNlIZuDdEpLRXUA7RQRfMB2nA4I7aPA/view?usp=sharing',
        link: 'https://public.tableau.com/shared/3TT357N5D?:display_count=n&:origin=viz_share_link',
      },
      {
@@ -101,7 +101,7 @@ const config = {
       description:
          'This Tableau visualization depicts how often flights originating from JFK, EWK & LGA were delayed or cancelled in 2013. ', 
 
-       imageUrl: '',
+       imageUrl: 'https://drive.google.com/file/d/1TKrGJHzSq_4wECT71z0SW2TtSsbMuSJ5/view?usp=sharing',
        link: 'https://public.tableau.com/views/flights_16917253165970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link',
      },
    ],
