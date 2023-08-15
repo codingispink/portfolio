@@ -99,8 +99,8 @@ const config = {
      {
       title: 'Flights Delay and Cancellation Status Analysis',
       description:
-         'This Tableau visualization depicts how often flights originating from JFK, EWK & LGA were delayed or cancelled in 2013 
-. ',
+         'This Tableau visualization depicts how often flights originating from JFK, EWK & LGA were delayed or cancelled in 2013. ', 
+
        imageUrl: '',
        link: 'https://public.tableau.com/views/flights_16917253165970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link',
      },
