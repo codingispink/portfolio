@@ -91,20 +91,20 @@ const config = {
   externalProjects: [
   {
        title: 'Netflix Movies & TV Shows Analysis',
-  //     description:
-  //       'An analysis of Netflix Movies & TV Shows using Tableau',
-  //     imageUrl: '',
-  //     link: 'https://public.tableau.com/shared/3TT357N5D?:display_count=n&:origin=viz_share_link',
-  //   },
-  //   {
-  //     title: 'Flights Delay and Cancellation Status Analysis',
-  //     description:
-  //       'This Tableau visualization depicts how often flights originating from JFK, EWK & LGA were delayed or cancelled in 2013 
+       description:
+         'An analysis of Netflix Movies & TV Shows using Tableau',
+       imageUrl: '',
+       link: 'https://public.tableau.com/shared/3TT357N5D?:display_count=n&:origin=viz_share_link',
+     },
+     {
+      title: 'Flights Delay and Cancellation Status Analysis',
+      description:
+         'This Tableau visualization depicts how often flights originating from JFK, EWK & LGA were delayed or cancelled in 2013 
 . ',
-  //     imageUrl: '',
-  //     link: 'https://public.tableau.com/views/flights_16917253165970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link',
-  //   },
-  // ],
+       imageUrl: '',
+       link: 'https://public.tableau.com/views/flights_16917253165970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link',
+     },
+   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
