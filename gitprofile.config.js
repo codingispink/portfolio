@@ -50,11 +50,11 @@ const config = {
   ],
   experiences: [
     {
-      company: 'KPIM JOINT STOCK COMPANY',
-      position: 'Business Analyst Intern',
-      from: 'February 2023',
-      to: 'May 2023',
-      companyLink: 'https://kpim.vn/',
+      company: 'Goldman Sachs',
+      position: 'Risk Engineer Intern',
+      from: 'June 2024',
+      to: 'August 2024',
+      companyLink: 'https://www.goldmansachs.com/index.html',
     },
     {
       company: 'University of Minnesota (Twin Cities)',
